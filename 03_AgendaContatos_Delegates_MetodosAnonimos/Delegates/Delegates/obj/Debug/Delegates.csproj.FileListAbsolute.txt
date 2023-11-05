@@ -1,8 +1,0 @@
-D:\gfa\Git\Code\MockTests_xUnit\03_AgendaContatos_Delegates_MetodosAnonimos\Delegates\Delegates\bin\Debug\Delegates.exe.config
-D:\gfa\Git\Code\MockTests_xUnit\03_AgendaContatos_Delegates_MetodosAnonimos\Delegates\Delegates\bin\Debug\Delegates.exe
-D:\gfa\Git\Code\MockTests_xUnit\03_AgendaContatos_Delegates_MetodosAnonimos\Delegates\Delegates\bin\Debug\Delegates.pdb
-D:\gfa\Git\Code\MockTests_xUnit\03_AgendaContatos_Delegates_MetodosAnonimos\Delegates\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
-D:\gfa\Git\Code\MockTests_xUnit\03_AgendaContatos_Delegates_MetodosAnonimos\Delegates\Delegates\obj\Debug\Delegates.csproj.SuggestedBindingRedirects.cache
-D:\gfa\Git\Code\MockTests_xUnit\03_AgendaContatos_Delegates_MetodosAnonimos\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
-D:\gfa\Git\Code\MockTests_xUnit\03_AgendaContatos_Delegates_MetodosAnonimos\Delegates\Delegates\obj\Debug\Delegates.exe
-D:\gfa\Git\Code\MockTests_xUnit\03_AgendaContatos_Delegates_MetodosAnonimos\Delegates\Delegates\obj\Debug\Delegates.pdb
