@@ -9,16 +9,16 @@ Este projeto é dedicado a todos os desenvolvedores .NET que desejam aprofundar 
   
 ## O que você aprenderá
 
-- Testes unitários com xUnit
 - Testes unitários com NUnit
 - Testes integrados com NUnit
 - Framework Moq
 - Framework Dapper
 - Framework Autofixture
 - Criar e Acessar Banco de Dados SqlServer
+- Criar banco de dados para testes
 - Delegates, expressões Lambda, Action, Func e Predicates
 - Tipos Nullable
-- .NET Core
+
 
 ## Requisitos
 
@@ -33,5 +33,11 @@ Este projeto é dedicado a todos os desenvolvedores .NET que desejam aprofundar 
 
 Para começar, clone este repositório e siga as instruções no arquivo README.md para configurar seu ambiente de desenvolvimento.
 
+## Solução
+Capitulos:
+- [Cp 5 e 6](01_AgendaContatos_TestesComNUnit) 
+- [Cp 7 e 8](02_AgendaContatos_TestestandoRepositorioComMock)
+- [Cp 9 e 10](03_AgendaContatos_Delegates_MetodosAnonimos)
+- [Cp 11](04_AgendaContatos_FluentValidationFramework)
 
 Esperamos que você encontre este projeto útil em sua jornada para se tornar um melhor desenvolvedor .NET!

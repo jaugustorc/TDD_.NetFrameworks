@@ -25,32 +25,38 @@ namespace Agenda.Repos.Test
         [Test]
         public void DeveSerPossivelObterContatoComListaTelefone()
         {
-            // Monta
-            var telefoneId = Guid.NewGuid();
-            var contatoId = Guid.NewGuid();
-            var lstTelefones = new List<ITelefone>();
+             // Montar
+            Guid telefoneId = Guid.NewGuid();
+            Guid contatoId = Guid.NewGuid();
+            List<ITelefone> lstTelefone = new List<ITelefone>();
 
-            var mockContato = IContatoConstr.Um().ComId(contatoId).ComNome("Gustavo").Obter();
-            mockContato.SetupSet(o => o.Telefones = It.IsAny<List<ITelefone>>()).Callback<List<ITelefone>>(p => lstTelefones = p);
+            Mock<IContato> mContato = IContatoCtor.Um().ComId(contatoId).ComNome("João").Obter();
+            //mContato.SetupGet(o => o.Id).Returns(contatoId);
+            //mContato.SetupGet(o => o.Nome).Returns("João");
+            mContato.SetupSet(o => o.Telefones = It.IsAny<List<ITelefone>>())
+                .Callback<List<ITelefone>>(p => lstTelefone = p);
 
-            _contatos.Setup(o => o.Obter(contatoId)).Returns(mockContato.Object);  
+            _contatos.Setup(o => o.Obter(contatoId)).Returns(mContato.Object);
 
-            var mockTelefone = ITelefoneConstr.Um().Padrao().ComId(telefoneId).ComContatoId(contatoId).Construir();
+            ITelefone mockTelefone = ITelefoneCtor.Um().Padrao()
+                .ComId(telefoneId)
+                .ComContatoId(contatoId)
+                .Construir();
 
             _telefones.Setup(o => o.ObterTodosDoContato(contatoId)).Returns(new List<ITelefone> { mockTelefone });
 
-            // Executa
-            var contatoResultado = _repositorioContatos.ObterPorId(contatoId);
+            // Executar
+            var contatoResultado = _repositorioContatos.ObterPorId(Guid.NewGuid());
+            mContato.SetupGet(o => o.Telefones).Returns(lstTelefone);
 
-            mockContato.SetupGet(o => o.Telefones).Returns(lstTelefones);
-
-            // Verifica
-            Assert.AreEqual(mockContato.Object.Id, contatoResultado.Id);
-            Assert.AreEqual(mockContato.Object.Nome, contatoResultado.Nome);
+            // Verificar
+            Assert.AreEqual(mContato.Object.Id, contatoResultado.Id);
+            Assert.AreEqual(mContato.Object.Nome, contatoResultado.Nome);
             Assert.AreEqual(1, contatoResultado.Telefones.Count);
-            Assert.AreEqual(mockTelefone.Id, contatoResultado.Telefones[0].Id);
             Assert.AreEqual(mockTelefone.Numero, contatoResultado.Telefones[0].Numero);
-            Assert.AreEqual(mockContato.Object.Id, contatoResultado.Telefones[0].ContatoId); 
+            Assert.AreEqual(mockTelefone.Id, contatoResultado.Telefones[0].Id);
+            Assert.AreEqual(mContato.Object.Id, contatoResultado.Telefones[0].ContatoId);
+
         }
 
 

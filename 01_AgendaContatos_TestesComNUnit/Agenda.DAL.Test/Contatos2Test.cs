@@ -35,8 +35,9 @@ namespace Agenda.DAL.Test
             var contatoResultado = listaContatos.Where(p => p.Id == contato.Id || p.Id == contato2.Id).FirstOrDefault();
 
             //Verifica
-            //Assert.AreEqual(2, listaContatos.Count);
             Assert.IsTrue(contatoResultado != null);
+            Assert.AreEqual(2, listaContatos.Count);
+            
         }
 
 

@@ -10,7 +10,7 @@ using AutoFixture;
 namespace Agenda.DAL.Test
 {
     [TestFixture]
-    public class ContatosTest /*: BaseTest*/
+    public class ContatosTest : BaseTest
     {
         Contatos _contatos;
         Fixture _fixture;
