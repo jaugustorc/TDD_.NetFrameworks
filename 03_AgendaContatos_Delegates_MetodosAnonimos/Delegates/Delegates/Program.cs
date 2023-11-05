@@ -23,6 +23,7 @@ namespace Delegates
             Predicate<int> pred = (num) => num%2 == 0;
             Console.WriteLine("Resultado divisão: " + pred(3));
 
+            
             //var qtdLetras = metodoDelegate("Fatima");
             //Console.WriteLine("Qtde. de letras: " + letras);
         }
