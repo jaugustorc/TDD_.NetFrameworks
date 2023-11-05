@@ -1,0 +1,15 @@
+D:\gfa\Git\Code\MockTests_xUnit\04_AgendaContatos_FluentValidationFramework\FluentValidation\FluentValidation\bin\Debug\FluentValidation.exe.config
+D:\gfa\Git\Code\MockTests_xUnit\04_AgendaContatos_FluentValidationFramework\FluentValidation\FluentValidation\bin\Debug\FluentValidation.exe
+D:\gfa\Git\Code\MockTests_xUnit\04_AgendaContatos_FluentValidationFramework\FluentValidation\FluentValidation\bin\Debug\FluentValidation.pdb
+D:\gfa\Git\Code\MockTests_xUnit\04_AgendaContatos_FluentValidationFramework\FluentValidation\FluentValidation\bin\Debug\FluentValidation.dll
+D:\gfa\Git\Code\MockTests_xUnit\04_AgendaContatos_FluentValidationFramework\FluentValidation\FluentValidation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\gfa\Git\Code\MockTests_xUnit\04_AgendaContatos_FluentValidationFramework\FluentValidation\FluentValidation\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\gfa\Git\Code\MockTests_xUnit\04_AgendaContatos_FluentValidationFramework\FluentValidation\FluentValidation\bin\Debug\FluentValidation.xml
+D:\gfa\Git\Code\MockTests_xUnit\04_AgendaContatos_FluentValidationFramework\FluentValidation\FluentValidation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\gfa\Git\Code\MockTests_xUnit\04_AgendaContatos_FluentValidationFramework\FluentValidation\FluentValidation\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\gfa\Git\Code\MockTests_xUnit\04_AgendaContatos_FluentValidationFramework\FluentValidation\FluentValidation\obj\Debug\FluentValidation.csproj.AssemblyReference.cache
+D:\gfa\Git\Code\MockTests_xUnit\04_AgendaContatos_FluentValidationFramework\FluentValidation\FluentValidation\obj\Debug\FluentValidation.csproj.SuggestedBindingRedirects.cache
+D:\gfa\Git\Code\MockTests_xUnit\04_AgendaContatos_FluentValidationFramework\FluentValidation\FluentValidation\obj\Debug\FluentValidation.csproj.CoreCompileInputs.cache
+D:\gfa\Git\Code\MockTests_xUnit\04_AgendaContatos_FluentValidationFramework\FluentValidation\FluentValidation\obj\Debug\FluentValidation.csproj.CopyComplete
+D:\gfa\Git\Code\MockTests_xUnit\04_AgendaContatos_FluentValidationFramework\FluentValidation\FluentValidation\obj\Debug\FluentValidation.exe
+D:\gfa\Git\Code\MockTests_xUnit\04_AgendaContatos_FluentValidationFramework\FluentValidation\FluentValidation\obj\Debug\FluentValidation.pdb

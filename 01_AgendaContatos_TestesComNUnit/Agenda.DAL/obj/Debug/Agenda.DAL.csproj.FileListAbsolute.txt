@@ -1,0 +1,11 @@
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.DAL\bin\Debug\Agenda.DAL.dll
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.DAL\bin\Debug\Agenda.DAL.pdb
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.DAL\bin\Debug\Agenda.Domain.dll
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.DAL\bin\Debug\Dapper.dll
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.DAL\bin\Debug\Agenda.Domain.pdb
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.DAL\bin\Debug\Dapper.xml
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.DAL\obj\Debug\Agenda.DAL.csproj.AssemblyReference.cache
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.DAL\obj\Debug\Agenda.DAL.csproj.CoreCompileInputs.cache
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.DAL\obj\Debug\Agenda.DAL.csproj.CopyComplete
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.DAL\obj\Debug\Agenda.DAL.dll
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.DAL\obj\Debug\Agenda.DAL.pdb

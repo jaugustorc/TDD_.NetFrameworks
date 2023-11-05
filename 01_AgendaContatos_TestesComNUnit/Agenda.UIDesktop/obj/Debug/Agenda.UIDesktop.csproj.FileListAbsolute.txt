@@ -1,0 +1,11 @@
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.UIDesktop\bin\Debug\Agenda.UIDesktop.exe.config
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.UIDesktop\bin\Debug\Agenda.UIDesktop.exe
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.UIDesktop\bin\Debug\Agenda.UIDesktop.pdb
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.csproj.AssemblyReference.cache
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.csproj.SuggestedBindingRedirects.cache
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.Properties.Resources.resources
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.csproj.GenerateResource.cache
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.csproj.CoreCompileInputs.cache
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.exe
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.pdb
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.Form1.resources

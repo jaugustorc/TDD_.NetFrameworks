@@ -1,0 +1,6 @@
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.Domain\bin\Debug\Agenda.Domain.dll
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.Domain\bin\Debug\Agenda.Domain.pdb
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.Domain\obj\Debug\Agenda.Domain.csproj.AssemblyReference.cache
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.Domain\obj\Debug\Agenda.Domain.csproj.CoreCompileInputs.cache
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.Domain\obj\Debug\Agenda.Domain.dll
+D:\gfa\Git\Code\MockTests_xUnit\Agenda.Domain\obj\Debug\Agenda.Domain.pdb

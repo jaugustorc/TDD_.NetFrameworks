@@ -1,0 +1,13 @@
+D:\gfa\Git\Code\MockTests_xUnit\02_AgendaContatos_TestandoRepositorioComMock\Agenda.Repos\bin\Debug\Agenda.Repos.dll
+D:\gfa\Git\Code\MockTests_xUnit\02_AgendaContatos_TestandoRepositorioComMock\Agenda.Repos\bin\Debug\Agenda.Repos.pdb
+D:\gfa\Git\Code\MockTests_xUnit\02_AgendaContatos_TestandoRepositorioComMock\Agenda.Repos\bin\Debug\Agenda.DAL.dll
+D:\gfa\Git\Code\MockTests_xUnit\02_AgendaContatos_TestandoRepositorioComMock\Agenda.Repos\bin\Debug\Agenda.Domain.dll
+D:\gfa\Git\Code\MockTests_xUnit\02_AgendaContatos_TestandoRepositorioComMock\Agenda.Repos\bin\Debug\Dapper.dll
+D:\gfa\Git\Code\MockTests_xUnit\02_AgendaContatos_TestandoRepositorioComMock\Agenda.Repos\bin\Debug\Agenda.DAL.pdb
+D:\gfa\Git\Code\MockTests_xUnit\02_AgendaContatos_TestandoRepositorioComMock\Agenda.Repos\bin\Debug\Agenda.Domain.pdb
+D:\gfa\Git\Code\MockTests_xUnit\02_AgendaContatos_TestandoRepositorioComMock\Agenda.Repos\bin\Debug\Dapper.xml
+D:\gfa\Git\Code\MockTests_xUnit\02_AgendaContatos_TestandoRepositorioComMock\Agenda.Repos\obj\Debug\Agenda.Repos.csproj.AssemblyReference.cache
+D:\gfa\Git\Code\MockTests_xUnit\02_AgendaContatos_TestandoRepositorioComMock\Agenda.Repos\obj\Debug\Agenda.Repos.csproj.CoreCompileInputs.cache
+D:\gfa\Git\Code\MockTests_xUnit\02_AgendaContatos_TestandoRepositorioComMock\Agenda.Repos\obj\Debug\Agenda.Repos.csproj.CopyComplete
+D:\gfa\Git\Code\MockTests_xUnit\02_AgendaContatos_TestandoRepositorioComMock\Agenda.Repos\obj\Debug\Agenda.Repos.dll
+D:\gfa\Git\Code\MockTests_xUnit\02_AgendaContatos_TestandoRepositorioComMock\Agenda.Repos\obj\Debug\Agenda.Repos.pdb
